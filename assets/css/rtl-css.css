@@ -1,0 +1,8 @@
+@font-face {
+    font-family: "diruz";
+    src: url("../fonts/Farsi-Digits/Dirooz-FD.woff2") format("woff2"),
+         url("../fonts/Farsi-Digits/Dirooz-FD.woff") format("woff");
+  }
+  *{
+      font-family: 'diruz'!important;
+  }
