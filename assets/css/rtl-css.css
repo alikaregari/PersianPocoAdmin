@@ -5,4 +5,8 @@
   }
   *{
       font-family: 'diruz'!important;
+      direction: rtl;
+  }
+  .logo-wrapper img{
+      width: 96px;
   }
